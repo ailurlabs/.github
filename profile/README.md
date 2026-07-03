@@ -61,7 +61,7 @@ We are built for business and designed for scale. Our core principle is **"Rapid
 ## 🛟 Support & Community
 
 *   **Community Support:** For general questions and framework issues, please use **GitHub Issues** in the respective repositories.
-*   **Security Vulnerabilities:** **DO NOT** open public issues. Please refer to our [`SECURITY.md`](./SECURITY.md).
+*   **Security Vulnerabilities:** **DO NOT** open public issues. Please refer to our [`SECURITY.md`](../SECURITY.md).
 *   **Enterprise Support:** For SLA-backed support, custom business logic encoding, or architectural consulting, contact us via **[ailur.ai](https://ailur.ai)**.
 
 👉 **[Explore our solutions and start with a free consultation at ailur.ai](https://ailur.ai)**
