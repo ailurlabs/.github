@@ -1,50 +1,71 @@
 # Ailur Labs
 
-### Building the Enterprise-Grade Nervous System for Agentic AI.
+### Make Your Enterprise AI Truly Business-Ready.
 
-Welcome to **Ailur Labs**. We bridge the gap between Large Language Models (LLMs) and enterprise core systems by building **Business-Ready** infrastructure based on the Model Context Protocol (MCP). 
+Welcome to **Ailur Labs**. Current AI tools can read your data, but they don't understand your business rules. We bridge this critical gap by building intelligent, **Business-Ready MCP (Model Context Protocol) servers** that translate complex systems, workflows, and logic into a language AI can safely act upon.
 
-While the industry focuses on AI *generation*, we focus on AI *execution*. We transform complex business logic, strict compliance rules, and legacy ERP/CRM data into secure, deterministic, and hallucination-free contexts for AI agents.
-
----
-
-## 🏗️ Our Core Philosophy: From "Chat" to "Action"
-
-Generic MCP wrappers are not enough for production environments. Enterprise systems require 100% accuracy, rigorous audit trails, and complex transactional logic. 
-
-At Ailur Labs, we engineer MCP servers that are:
-*   **Business-Ready:** Pre-encoded with domain-specific business logic (e.g., financial calculations, supply chain state machines).
-*   **Deterministic:** Eliminating LLM hallucinations in critical data retrieval and state mutations.
-*   **Enterprise-Grade:** Built with security, rate-limiting, and comprehensive audit logging from day one.
+While generic MCP wrappers only retrieve data, we encode **business logic, calculations, and operational workflows** into standardized AI skills, enabling reliable automation for the agentic era.
 
 ---
 
-## 📦 Ecosystem & Repositories
+## 🏗️ Our Technology Foundations
 
-Our open-source repositories provide the foundational building blocks for integrating AI into your tech stack. 
+We build on a foundation of secure, high-performance, and Wasm-native infrastructure. Our core engine is designed for zero-OS-dependency, making it embeddable in any runtime—from edge networks to enterprise clouds.
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
+| [`wawk-core`](#) | Pure, zero-OS-dependency POSIX AWK engine. Embeddable in any Wasm runtime. | 🟢 Stable |
+| [`wawk-wasi`](#) | WASI CLI distribution for `wasmtime`. Run AWK scripts natively in Wasm. | 🟢 Stable |
+| [`wawk-bindgen`](#) | Browser/Node.js bindings via `wasm-pack`. Bring AWK to web and serverless. | 🟢 Stable |
+
+*Built with Rust. Dual-licensed under MIT / Apache-2.0. Engineered for strict security, fuel limits, and memory caps.*
 
 ---
 
-## 🤝 Commercial Offerings & Enterprise Services
+## 🤝 Enterprise Solutions & Services
 
-Ailur Labs operates as a boutique infrastructure firm. While we believe in open-source foundations, we provide deep expertise for enterprises requiring mission-critical AI integration.
+We provide end-to-end infrastructure for the agentic era — from standardized products to custom engineering and strategic advisory.
 
-*   **Custom MCP Development:** End-to-end design and implementation of bespoke MCP servers tailored to your proprietary internal systems and complex business rules.
-*   **AI-Ready Strategy & Consulting:** Architectural blueprints, security audits, and deployment roadmaps for transitioning your enterprise from "AI-curious" to "AI-production."
-*   **ODM & White-Label Solutions:** Embed our battle-tested, business-logic MCP engines directly into your own SaaS products or AI platforms.
+### 🏗️ Business-Ready MCP Servers
+Pre-built intelligence for core operations. Unlike basic connectors, our servers encode complex business logic out of the box:
+*   **Financial calculations & reporting** (GAAP/IFRS compliant)
+*   **Workflow automation & approvals** (SOX-ready audit trails)
+*   **Database management & complex queries** (role-based access control)
+*   **ERP, CRM & legacy system integration**
 
-👉 **[Explore our services and request a consultation at ailur.ai](https://ailur.ai)**
+### ⚙️ Custom & White-Label MCP Servers
+Built on our proven framework. We develop custom plugins for your proprietary systems or embed our modules into your SaaS products.
+*   Custom tool configurations with business logic encoding
+*   White-label MCP for software providers
+*   Config-driven tool exposure
+
+### 🧠 AI-Ready Strategy Consulting
+Architecting your AI transformation. We audit your data ecosystems and design clear roadmaps to make your organization structurally ready for the agentic era.
+*   AI readiness assessment & audit
+*   Architecture design & planning
+*   Compliance & data governance advisory
 
 ---
 
-## 📬 Connect with Us
+## 💡 Why Ailur Labs?
 
-*   🌐 **Website:** [ailur.ai](https://ailur.ai)
-*   📧 **Business Inquiries:** [team@ailur.ai](mailto:team@ailur.ai)
+We are built for business and designed for scale. Our core principle is **"Rapid Time-to-Value"** — we help you skip months of trial-and-error and deploy infrastructure that your team can trust from day one.
+
+*   ✅ **Deterministic execution:** Zero hallucinations in business-critical operations.
+*   ✅ **Security-first:** Wasm-native isolation, fuel limits, and memory caps prevent DoS and OOM.
+*   ✅ **Compliance-ready:** Aligned with SOC 2, ISO 27001, HIPAA, GDPR, and FedRAMP standards.
+*   ✅ **Rapid Time-to-Value:** Deploy infrastructure that is secure, scalable, and ready for mission-critical workloads.
 
 ---
 
-*© 2025-2026 Ailur Labs. All rights reserved.*
+## 🛟 Support & Community
+
+*   **Community Support:** For general questions and framework issues, please use **GitHub Issues** in the respective repositories.
+*   **Security Vulnerabilities:** **DO NOT** open public issues. Please refer to our [`SECURITY.md`](./SECURITY.md).
+*   **Enterprise Support:** For SLA-backed support, custom business logic encoding, or architectural consulting, contact us via **[ailur.ai](https://ailur.ai)**.
+
+👉 **[Explore our solutions and start with a free consultation at ailur.ai](https://ailur.ai)**
+
+---
+
+*© 2024 Ailur Labs. All rights reserved.*
