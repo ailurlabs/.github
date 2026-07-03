@@ -10,7 +10,7 @@ Ailur Labs takes the security of our software, infrastructure, and the data of o
 Please report security vulnerabilities using one of the following secure channels:
 
 1. **GitHub Private Vulnerability Reporting**: Use the [GitHub Security Advisories](https://github.com/ailurlabs/.github/security/advisories) feature to report a vulnerability privately.
-2. **Email**: Send a detailed report to **[security@ailur.ai](mailto:security@ailur.ai)**. (Please encrypt sensitive payloads using our PGP key if requested).
+2. **Email**: Send a detailed report to **[team@ailur.ai](mailto:team@ailur.ai)**. (Please encrypt sensitive payloads using our PGP key if requested).
 
 ### What to Include
 To help us triage and resolve the issue quickly, please include:
