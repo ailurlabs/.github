@@ -68,4 +68,4 @@ We are built for business and designed for scale. Our core principle is **"Rapid
 
 ---
 
-*© 2024 Ailur Labs. All rights reserved.*
+*© 2025-2026 Ailur Labs. All rights reserved.*
