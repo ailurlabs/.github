@@ -14,9 +14,7 @@ We build on a foundation of secure, high-performance, and Wasm-native infrastruc
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [`wawk-core`](#) | Pure, zero-OS-dependency POSIX AWK engine. Embeddable in any Wasm runtime. | 🟢 Stable |
-| [`wawk-wasi`](#) | WASI CLI distribution for `wasmtime`. Run AWK scripts natively in Wasm. | 🟢 Stable |
-| [`wawk-bindgen`](#) | Browser/Node.js bindings via `wasm-pack`. Bring AWK to web and serverless. | 🟢 Stable |
+| [`wawk-rs`](https://github.com/ailurlabs/wawk-rs) | A modern, Wasm-native AWK engine with trait-based I/O — designed to compile to WebAssembly without any OS dependencies. | 🟢 Stable |
 
 *Built with Rust. Dual-licensed under MIT / Apache-2.0. Engineered for strict security, fuel limits, and memory caps.*
 
