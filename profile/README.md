@@ -15,6 +15,7 @@ We build on a foundation of secure, high-performance, and Wasm-native infrastruc
 | Repository | Description | Status |
 | :--- | :--- | :--- |
 | [`wawk-rs`](https://github.com/ailurlabs/wawk-rs) | A modern, Wasm-native AWK engine with trait-based I/O — designed to compile to WebAssembly without any OS dependencies. | 🟢 Stable |
+| [`wawk-hello`](https://github.com/ailurlabs/wawk-hello) | Example wawk plugin — minimal greeting function for learning plugin development. | 🟢 Stable |
 
 *Built with Rust. Dual-licensed under MIT / Apache-2.0. Engineered for strict security, fuel limits, and memory caps.*
 
